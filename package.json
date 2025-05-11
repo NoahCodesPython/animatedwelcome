@@ -1,0 +1,33 @@
+{
+  "name": "animated-welcome",
+  "version": "1.0.0",
+  "description": "A package to generate animated welcome GIFs for Discord bots.",
+  "main": "src/generateWelcomeGif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "welcome",
+    "gif",
+    "animated",
+    "bot"
+  ],
+  "author": "Charan Nihaal",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "gif-encoder-2": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "sharp": "^0.32.1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahCodesPython/animatedwelcome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NoahCodesPython/animatedwelcome/issues"
+  },
+  "homepage": "https://github.com/NoahCodesPython/animatedwelcome#readme"
+}

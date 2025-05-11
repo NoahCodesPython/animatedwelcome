@@ -180,4 +180,5 @@ async function generateWelcomeGif(user, guild, messageTemplate, backgroundURL) {
   }
 }
 
-module.exports = { generateWelcomeGif };
+// Export the generateWelcomeGif function as the main entry point
+export { generateWelcomeGif };

@@ -44,6 +44,10 @@ client.on('guildMemberAdd', async (member) => {
 - `messageTemplate`: A string template for the welcome message. Use `{user}` and `{server}` as placeholders.
 - `backgroundURL`: (Optional) A URL to a background GIF. Defaults to a galaxy-themed GIF.
 
+## Example SS
+
+![welcome](https://github.com/NoahCodesPython/animatedwelcome/raw/main/welcome.gif)
+
 ## License
 
 This project is licensed under the MIT License.
